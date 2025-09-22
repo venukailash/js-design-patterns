@@ -16,3 +16,6 @@ https://github.com/ignatij/nodejs-design-patterns-exercises/tree/main
     - [`Further Reading`](https://martinfowler.com/articles/injection.html)
     - [`Further Learning`](https://inversify.io/)
 
+## Structural Design Patterns
+
+1. [`Mixin`](./mixin.js)
